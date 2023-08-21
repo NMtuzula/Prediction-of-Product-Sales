@@ -5,7 +5,11 @@ Author: Nonlwa Mtuzula
 ### Exploratory Data Analysis
       - The data was first loaded using pandas and was then cleaned
       - I then visualised all categorical data to better understand the data being dealt with
+![image](https://github.com/NMtuzula/Prediction-of-Product-Sales/assets/138831286/915e28fc-4f80-42a6-b862-2aca8bf78e36)
+![image](https://github.com/NMtuzula/Prediction-of-Product-Sales/assets/138831286/cb82c5d8-619f-4251-a449-94e262b7dba6)
 ![image](https://github.com/NMtuzula/Prediction-of-Product-Sales/assets/138831286/2d0e5936-b358-4a24-88ab-9945c07491f2)
+![image](https://github.com/NMtuzula/Prediction-of-Product-Sales/assets/138831286/2e11624b-94de-4e8e-9f63-3011684c7eb9)
+
 #### Machine learning using the below models
       - Linear Regression Model
       - Random Forest Model
