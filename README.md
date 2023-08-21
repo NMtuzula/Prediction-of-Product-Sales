@@ -65,7 +65,7 @@ Comparing Tuned data to default Random
 - Justification
    - The training and test data results for this model were improving compared to the other models
   
-  R-Squared, The training data had a higher chance of predicting the target value, however it did drop on the testing data but the chances were still relatively high.
-  MSE- the testing data has increased drasticaly compared to the training data. Meaning it was increasing the complexity of the model by adding more features.
-  The reason for selecting MSE is to show how underfitting is addressed in Machine learning.
-  Using the R-Squared results for the Random Forest Model- When comparing the training and the test data, the model is overfitting.
+  - R-Squared, The training data had a higher chance of predicting the target value, however it did drop on the testing data but the chances were still relatively high.
+  - MSE- the testing data has increased drasticaly compared to the training data. Meaning it was increasing the complexity of the model by adding more features.
+  - The reason for selecting MSE is to show how underfitting is addressed in Machine learning.
+  - Using the R-Squared results for the Random Forest Model- When comparing the training and the test data, the model is overfitting.
