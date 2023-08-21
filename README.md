@@ -13,37 +13,37 @@ Author: Nonlwa Mtuzula
 
 ##### Models Evaluated and results
   - Linear Regression Model
-      Results for training data:
+      - Results for training data:
         - R^2 = 0.56
         - MAE = 848.383
         - MSE = 1302996.566
         - RMSE = 1141.489
 
-      Results for testing data:
+      - Results for testing data:
         - R^2 = 0.566
         - MAE = 807.049
         - MSE = 1198430.673
         - RMSE = 1094.729
     
  - Random Forest Model   
-     Regression Metrics: Training Data
+     - Regression Metrics: Training Data
         - MAE = 299.740
         - MSE = 186,695.983
         - RMSE = 432.083
         - R^2 = 0.937
-     Regression Metrics: Test Data
+     - Regression Metrics: Test Data
         - MAE = 773.526
         - MSE = 1,250,156.387
         - RMSE = 1,118.104
         - R^2 = 0.547
    
   - Tuning with GridSearchCV
-     Regression Metrics: Training Data
+     - Regression Metrics: Training Data
         - MAE = 656.222
         - MSE = 875,944.722
         - RMSE = 935.919
         - R^2 = 0.704
-     Regression Metrics: Test Data
+     - Regression Metrics: Test Data
         - MAE = 736.053
         - MSE = 1,122,074.080
         - RMSE = 1,059.280
